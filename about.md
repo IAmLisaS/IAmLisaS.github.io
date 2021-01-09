@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: nice to meet chu
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+### basically
 
-### More Information
+my name's lisa. i'm here to record about what i'm learning about, as well as ramble a little about all the things.
 
-A place to include any other types of information that you'd like to include about yourself.
+### beep me
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[lisaysinn@gmail.com](mailto:lisaysinn@gmail.com)
