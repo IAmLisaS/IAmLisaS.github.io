@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: hsl(330, 100%, 71%);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $pink;
+    color: hsl(330, 100%, 71%);
   }
 }
 
